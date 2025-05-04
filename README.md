@@ -1,6 +1,6 @@
 # Sudoku Solver (Python)
-To all those folks out there who react like: "**aaaahhhhhh! scary 9x9 puzzle**" when theys see a 9x9 Sudoku puzzle, I have created a *Sudoku killer*.
-So, go ahead and copy the code, input that scary looking puzzle and devour it with my project !
+To all those folks out there who react like: "**aaaahhhhhh! scary 9x9 puzzle**" when they see a 9x9 Sudoku puzzle, I have created a *weapon*.
+So, go ahead and copy the code, input that scary looking puzzle and devour it with my *Sudoku killer*
 
 This project is a **Sudoku solver** implemented from scratch using Python. The algorithm uses **backtracking** to find the solution for any valid 9x9 Sudoku puzzle.
 
